@@ -1,13 +1,11 @@
-import { useState } from 'react'
-
-import './App.css'
+import Todo from './view/Todo'
 
 function App() {
 
 
   return (
     <>
-      <h1>Hello Developer</h1>
+      <Todo/>
     </>
   )
 }
